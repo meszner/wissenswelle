@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
+
+<channel>
+	<title>Wissenswelle</title>
+	<link>https://www.uni-hamburg.de/newsroom/podcast/</link>
+	<description>Podcast der Universität Hamburg</description>
+	<lastBuildDate>Tue, 25 Feb 2020 11:03:41 +0000</lastBuildDate>
+
+<image><url>https://www.pod.uni-hamburg.de/1/poster/1.png</url><title>Wissenswelle</title><link>https://www.uni-hamburg.de/newsroom/podcast/</link></image>
+<atom:link rel="self" type="application/rss+xml" title="Wissenswelle (MP3)" href="https://www.pod.uni-hamburg.de/1/feed/1.rss"/>
+	<atom:link rel="first" href="https://www.pod.uni-hamburg.de/1/feed/1.rss"/>
+	<language>de-DE</language><generator>Podlove Podcast Publisher v2.9.9</generator>
+	<itunes:author>Universität Hamburg</itunes:author>
+	<itunes:type>serial</itunes:type>
+	<itunes:summary>Wissenswelle ist der Podcast der Universität Hamburg. In ausführlichen Gesprächen erzählen Forscherinnen und Forscher aus ihrer Arbeit und geben einen Blick hinter die Kulissen der Wissenschaft.</itunes:summary>
+<itunes:category text="Science"/>
+
+	<itunes:owner>
+		<itunes:name/>
+		<itunes:email>newsroom@uni-hamburg.de</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://www.pod.uni-hamburg.de/1/poster/1.png"/>
+	<itunes:subtitle>Podcast der Universität Hamburg</itunes:subtitle>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+
+
+
+	<item>
+		<title>Wissenswelle 3: Erziehungswissenschaftler Hans-Christoph Koller im Gespräch über Bildung und Bildungsprozesse</title>
+		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-3.html</link>
+		<pubDate>Thu, 27 Sep 2018 18:04:22 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-02-25t07:54:15+00:00-e799d7d58ea94db</guid>
+		<description><![CDATA[Prof. Dr. Hans-Christoph Koller ist Erziehungswissenschaftler an der Universität Hamburg und forscht zum Thema Bildung. Er hat das Konzept der transformatorischen Bildungsprozesse entwickelt, mit dem er zum Beispiel Schulerfolg und Adoleszenzverlauf von jungen Männern mit Migrationshintergrund untersucht.]]></description>
+
+
+<enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/12/s/feed/c/mp3/wissenswelle-3.mp3" length="24433143" type="audio/mpeg" />
+
+		<itunes:duration>00:25:19</itunes:duration>
+		<itunes:author>Universität Hamburg</itunes:author>
+		<itunes:subtitle>Ein Gespräch über Bildung und Bildungsprozesse</itunes:subtitle>
+		<itunes:episode>3</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Prof. Dr. Hans-Christoph Koller ist Erziehungswissenschaftler an der Universität Hamburg und forscht zum Thema Bildung. Er hat das Konzept der transformatorischen Bildungsprozesse entwickelt, mit dem er zum Beispiel Schulerfolg und Adoleszenzverlauf von jungen Männern mit Migrationshintergrund untersucht.</itunes:summary>
+
+		<content:encoded><![CDATA[<p>Prof. Dr. Hans-Christoph Koller ist Erziehungswissenschaftler an der Universität Hamburg und forscht zum Thema Bildung. Er hat das Konzept der transformatorischen Bildungsprozesse entwickelt, mit dem er zum Beispiel Schulerfolg und Adoleszenzverlauf von jungen Männern mit Migrationshintergrund untersucht.</p>
+<p><em>Musik: Francois Maugame, A Kings Honour</em></p>
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:00.000" title="Einleitung und Begrüßung"/>
+  <psc:chapter start="00:01:04.000" title="Forschungsinteressen"/>
+  <psc:chapter start="00:02:17.000" title="Transformatorische Bildungsprozesse"/>
+  <psc:chapter start="00:05:24.000" title="Wissenschaftstheorie"/>
+  <psc:chapter start="00:07:23.000" title="Forschungsfrage und Ergebnisse"/>
+  <psc:chapter start="00:15:08.000" title="Bildung und Bildungsprozesse"/>
+  <psc:chapter start="00:19:17.000" title="Bildung und Erziehung"/>
+  <psc:chapter start="00:21:50.000" title="Bildung und Migration"/>
+  <psc:chapter start="00:24:27.000" title="Verabschiedung"/>
+</psc:chapters>
+	</item>
+
+	<item>
+		<title>Wissenswelle 2: Indologe Michael Zimmermann im Gespräch über Buddhismus und Buddhismuskunde</title>
+		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-2.html</link>
+		<pubDate>Wed, 11 Jul 2018 11:11:38 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-02-25t07:54:30+00:00-35e5331aca46181</guid>
+		<description><![CDATA[Prof. Dr. Michael Zimmermann leitet das Numata Zentrum für Buddhismuskunde an der Universität Hamburg und forscht über indischen Buddhismus. Im Gespräch erzählt er von der Herausforderung mit überlieferten Manuskripten zu arbeiten, von der Buddha-Natur und wie Achtsamkeit zum Trend wurde.]]></description>
+
+
+<enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/22/s/feed/c/mp3/wissenswelle-2.mp3" length="45977155" type="audio/mpeg" />
+
+		<itunes:duration>00:47:45</itunes:duration>
+		<itunes:author>Universität Hamburg</itunes:author>
+		<itunes:subtitle>Ein Gespräch über Buddhismus und Buddhismuskunde</itunes:subtitle>
+		<itunes:episode>2</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Prof. Dr. Michael Zimmermann leitet das Numata Zentrum für Buddhismuskunde an der Universität Hamburg und forscht über indischen Buddhismus. Im Gespräch erzählt er von der Herausforderung mit überlieferten Manuskripten zu arbeiten, von der Buddha-Natur und wie Achtsamkeit zum Trend wurde.</itunes:summary>
+
+		<content:encoded><![CDATA[<p>Prof. Dr. Michael Zimmermann leitet das Numata Zentrum für Buddhismuskunde an der Universität Hamburg und forscht über indischen Buddhismus. Im Gespräch erzählt er von der Herausforderung mit überlieferten Manuskripten zu arbeiten, von der Buddha-Natur und wie Achtsamkeit zum Trend wurde.</p>
+<p><em>Musik: Francois Maugame, A Kings Honour</em></p>
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:00.000" title="Einleitung und Begrüßung"/>
+  <psc:chapter start="00:01:06.000" title="Was ist das Numata Zentrum?"/>
+  <psc:chapter start="00:02:38.000" title="Wie sind Sie zur Buddhismuskunde gekommen?"/>
+  <psc:chapter start="00:06:17.000" title="Forschungsinteressen"/>
+  <psc:chapter start="00:18:12.000" title="Indischer Buddhismus"/>
+  <psc:chapter start="00:19:39.000" title="Forschungsfrage"/>
+  <psc:chapter start="00:22:23.000" title="Quellenlage und Manuskripte"/>
+  <psc:chapter start="00:33:37.000" title="Digitalisierung"/>
+  <psc:chapter start="00:35:20.000" title="Warum?"/>
+  <psc:chapter start="00:39:25.000" title="Buddhismus in der Gegenwart"/>
+  <psc:chapter start="00:44:12.000" title="Achtsamkeit"/>
+  <psc:chapter start="00:46:41.000" title="Verabschiedung"/>
+</psc:chapters>
+	</item>
+
+	<item>
+		<title>Wissenswelle 1: Philosophin Judith Simon im Gespräch über Big Data und Ethik in der Informationstechnologie</title>
+		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-1.html</link>
+		<pubDate>Wed, 06 Jun 2018 15:00:33 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-02-25t07:54:39+00:00-2ea8a73db7c3336</guid>
+		<description><![CDATA[Prof. Dr. Judith Simon forscht zu Chancen und Risiken von Big Data. Sie ist Professorin für Ethik in der Informationstechnologie und analysiert mit einem interdisziplinären Team zeitgenössische Datenpraktiken in Wirtschaft, Wissenschaft und Politik. Im Gespräch erzählt sie, wie sie als Philosophin zur Informatik gekommen ist, über ihren eigenen Umgang mit Daten und Verschlüsselung und über selbstfahrende Autos.]]></description>
+
+
+<enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/1/s/feed/c/mp3/wissenswelle-1.mp3" length="36733228" type="audio/mpeg" />
+
+		<itunes:duration>00:38:15</itunes:duration>
+		<itunes:author>Universität Hamburg</itunes:author>
+		<itunes:subtitle>Ein Gespräch über Big Data und Ethik in der Informationstechnologie</itunes:subtitle>
+		<itunes:episode>1</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Prof. Dr. Judith Simon forscht zu Chancen und Risiken von Big Data. Sie ist Professorin für Ethik in der Informationstechnologie und analysiert mit einem interdisziplinären Team zeitgenössische Datenpraktiken in Wirtschaft, Wissenschaft und Politik. Im Gespräch erzählt sie, wie sie als Philosophin zur Informatik gekommen ist, über ihren eigenen Umgang mit Daten und Verschlüsselung und über selbstfahrende Autos.</itunes:summary>
+
+		<content:encoded><![CDATA[<p>Prof. Dr. Judith Simon forscht zu Chancen und Risiken von Big Data. Sie ist Professorin für Ethik in der Informationstechnologie und analysiert mit einem interdisziplinären Team zeitgenössische Datenpraktiken in Wirtschaft, Wissenschaft und Politik. Im Gespräch erzählt sie, wie sie als Philosophin zur Informatik gekommen ist, über ihren eigenen Umgang mit Daten und Verschlüsselung und über selbstfahrende Autos.</p>
+<p><em>Musik: Francois Maugame, A Kings Honour</em></p>
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:00.000" title="Intro und Begrüßung"/>
+  <psc:chapter start="00:03:12.968" title="Arbeitsgruppe Ethik in der Informationstechnologie"/>
+  <psc:chapter start="00:07:32.377" title="Big Data"/>
+  <psc:chapter start="00:24:36.912" title="Technologische Singularität"/>
+  <psc:chapter start="00:26:05.369" title="Ethik und selbstfahrende Autos"/>
+  <psc:chapter start="00:28:54.311" title="Aktuelle Forschungsprojekte"/>
+  <psc:chapter start="00:31:51.055" title="Tracking und Verschlüsselung"/>
+  <psc:chapter start="00:36:37.283" title="Verabschiedung"/>
+</psc:chapters>
+	</item>
+	</channel>
+</rss>
