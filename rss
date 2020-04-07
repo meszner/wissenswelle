@@ -8,8 +8,8 @@
 	<lastBuildDate>Tue, 25 Feb 2020 11:03:41 +0000</lastBuildDate>
 
 <image><url>https://www.pod.uni-hamburg.de/1/poster/1.png</url><title>Wissenswelle</title><link>https://www.uni-hamburg.de/newsroom/podcast/</link></image>
-<atom:link rel="self" type="application/rss+xml" title="Wissenswelle (MP3)" href="https://www.pod.uni-hamburg.de/1/feed/1.rss"/>
-	<atom:link rel="first" href="https://www.pod.uni-hamburg.de/1/feed/1.rss"/>
+<atom:link rel="self" type="application/rss+xml" title="Wissenswelle (MP3)" href="https://raw.githubusercontent.com/meszner/wissenswelle/master/rss"/>
+	<atom:link rel="first" href="https://raw.githubusercontent.com/meszner/wissenswelle/master/rss"/>
 	<language>de-DE</language><generator>Podlove Podcast Publisher v2.9.9</generator>
 	<itunes:author>Universität Hamburg</itunes:author>
 	<itunes:type>serial</itunes:type>
