@@ -1,18 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" >
 
 <channel>
 	<title>Wissenswelle</title>
 	<link>https://www.uni-hamburg.de/newsroom/podcast/</link>
 	<description>Podcast der Universität Hamburg</description>
-	<lastBuildDate>Tue, 25 Feb 2020 11:03:41 +0000</lastBuildDate>
-
+	<lastBuildDate>Wed, 08 Apr 2020 07:42:09 +0000</lastBuildDate>
+	
 <image><url>https://www.pod.uni-hamburg.de/1/poster/1.png</url><title>Wissenswelle</title><link>https://www.uni-hamburg.de/newsroom/podcast/</link></image>
-<atom:link rel="self" type="application/rss+xml" title="Wissenswelle (MP3)" href="https://raw.githubusercontent.com/meszner/wissenswelle/master/rss"/>
-	<atom:link rel="first" href="https://raw.githubusercontent.com/meszner/wissenswelle/master/rss"/>
-	<language>de-DE</language><generator>Podlove Podcast Publisher v2.9.9</generator>
+<atom:link rel="self" type="application/rss+xml" title="Wissenswelle (MP3)" href="https://www.pod.uni-hamburg.de/1/feed/1.rss" />
+
+	<language>de-DE</language>
+<atom:contributor><atom:name>Universität Hamburg</atom:name><atom:uri>https://www.uni-hamburg.de/newsroom/podcast</atom:uri></atom:contributor>
+
+
+<generator>Podlove Podcast Publisher v2.9.10</generator>
 	<itunes:author>Universität Hamburg</itunes:author>
-	<itunes:type>serial</itunes:type>
+	<itunes:type>episodic</itunes:type>
 	<itunes:summary>Wissenswelle ist der Podcast der Universität Hamburg. In ausführlichen Gesprächen erzählen Forscherinnen und Forscher aus ihrer Arbeit und geben einen Blick hinter die Kulissen der Wissenschaft.</itunes:summary>
 <itunes:category text="Science"/>
 
@@ -25,8 +33,46 @@
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>no</itunes:explicit>
 
+	<item>
+		<title>„Wir werden die Pandemie überstehen und unsere Lehren daraus ziehen“</title>
+		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-4.html</link>
+		<pubDate>Wed, 08 Apr 2020 11:13:46 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-04-08t07:36:03+00:00-7258e9dcd28b98e</guid>
+		<description><![CDATA[Das Coronavirus hat sich innerhalb weniger Monate fast weltweit verbreitet. Warum kam es ausgerechnet bei diesem Virus zu einer Pandemie? Der Virologe Prof. Dr. Jonas Schmidt-Chanasit im Podcast-Gespräch über das neuartige Coronavirus, die Folgen für die Forschung und welche Konsequenzen wir für die Wissenschaft aus der Pandemie ziehen sollten.]]></description>
+		
+<atom:link rel="http://podlove.org/deep-link" href="https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-4.html/#" />
+		
+<enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/32/s/feed/c/mp3/wissenswelle-4.mp3" length="34464909" type="audio/mpeg" slug="wissenswelle-4"/>
 
-
+		<itunes:duration>00:35:46</itunes:duration>
+		<itunes:author>Universität Hamburg</itunes:author>
+		<itunes:subtitle>Virologe Prof. Dr. Jonas Schmidt-Chanasit</itunes:subtitle>
+		<itunes:episode>4</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Das Coronavirus hat sich innerhalb weniger Monate fast weltweit verbreitet. Warum kam es ausgerechnet bei diesem Virus zu einer Pandemie? Der Virologe Prof. Dr. Jonas Schmidt-Chanasit im Podcast-Gespräch über das neuartige Coronavirus, die Folgen für die Forschung und welche Konsequenzen wir für die Wissenschaft aus der Pandemie ziehen sollten.</itunes:summary>
+		
+		<content:encoded><![CDATA[<p>Das Coronavirus hat sich innerhalb weniger Monate fast weltweit verbreitet. Warum kam es ausgerechnet bei diesem Virus zu einer Pandemie? Der Virologe Prof. Dr. Jonas Schmidt-Chanasit im Podcast-Gespräch über das neuartige Coronavirus, die Folgen für die Forschung und welche Konsequenzen wir für die Wissenschaft aus der Pandemie ziehen sollten.</p>
+<p>„Viren sind kein Uhrwerk“, sagt Prof. Schmidt-Chanasit, daher lassen sich der Verlauf und die Ausbreitung einer Pandemie nur schwer vorhersagen. Szenarien, die in der Theorie entwickelt wurden, halten daher der Praxis nicht immer Stand: „Wir werden immer wieder überrascht und lernen täglich hinzu.“ </p>
+<p>Normalerweise erforscht er Viren, die von Stechmücken übertragen werden – sog. Arboviren. Seit einigen Wochen jedoch hat Prof. Schmidt-Chanasit seine eigene Forschung auf Eis gelegt und es dreht sich bei ihm und dem Bernhard-Nocht-Institut für Tropenmedizin (BNITM) alles um das neuartige Coronavirus. Neben der Krankenversorgung werden dort auch Corona-Tests durchgeführt und erste Studien mit Medikamenten gestartet.  </p>
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:00.000" title="Intro und Begrüßung"/>
+  <psc:chapter start="00:02:02.372" title="Verbreitung des Coronavirus"/>
+  <psc:chapter start="00:03:31.100" title="Was steckt hinter den Begriffen Coronavirus, SARS-CoV-2 und COVID19?"/>
+  <psc:chapter start="00:05:54.989" title="Verlauf der Pandemie"/>
+  <psc:chapter start="00:09:19.438" title="Unterschiedliche wissenschaftliche Disziplinen"/>
+  <psc:chapter start="00:10:33.763" title="Warum interessieren Sie sich für Viren?"/>
+  <psc:chapter start="00:13:56.899" title="Schwerpunkt Coronavirus"/>
+  <psc:chapter start="00:15:15.039" title="Bernhard-Nocht-Institut für Tropenmedizin"/>
+  <psc:chapter start="00:16:40.794" title="Stand Medikamentenentwicklung"/>
+  <psc:chapter start="00:18:48.216" title="Arboviren und die Krankheitsübertragung durch Tiere"/>
+  <psc:chapter start="00:20:42.811" title="Folgen für die Forschung"/>
+  <psc:chapter start="00:22:25.998" title="Verbreitung von Arboviren in Europa?"/>
+  <psc:chapter start="00:28:37.527" title="Medienauftritte und Wissenschaftskommunikation"/>
+  <psc:chapter start="00:32:35.882" title="Blick in die Zukunft: Wie wird sich die Pandemie entwickeln?"/>
+  <psc:chapter start="00:34:50.301" title="Verabschiedung"/>
+</psc:chapters>	
+	</item>
+		
 	<item>
 		<title>Wissenswelle 3: Erziehungswissenschaftler Hans-Christoph Koller im Gespräch über Bildung und Bildungsprozesse</title>
 		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-3.html</link>
@@ -34,6 +80,7 @@
 		<guid isPermaLink="false">podlove-2020-02-25t07:54:15+00:00-e799d7d58ea94db</guid>
 		<description><![CDATA[Prof. Dr. Hans-Christoph Koller ist Erziehungswissenschaftler an der Universität Hamburg und forscht zum Thema Bildung. Er hat das Konzept der transformatorischen Bildungsprozesse entwickelt, mit dem er zum Beispiel Schulerfolg und Adoleszenzverlauf von jungen Männern mit Migrationshintergrund untersucht.]]></description>
 
+		<atom:link rel="http://podlove.org/deep-link" href="https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-3.html/#" />
 
 <enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/12/s/feed/c/mp3/wissenswelle-3.mp3" length="24433143" type="audio/mpeg" />
 
@@ -59,13 +106,14 @@
 </psc:chapters>
 	</item>
 
-	<item>
+<item>
 		<title>Wissenswelle 2: Indologe Michael Zimmermann im Gespräch über Buddhismus und Buddhismuskunde</title>
 		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-2.html</link>
 		<pubDate>Wed, 11 Jul 2018 11:11:38 +0000</pubDate>
 		<guid isPermaLink="false">podlove-2020-02-25t07:54:30+00:00-35e5331aca46181</guid>
 		<description><![CDATA[Prof. Dr. Michael Zimmermann leitet das Numata Zentrum für Buddhismuskunde an der Universität Hamburg und forscht über indischen Buddhismus. Im Gespräch erzählt er von der Herausforderung mit überlieferten Manuskripten zu arbeiten, von der Buddha-Natur und wie Achtsamkeit zum Trend wurde.]]></description>
 
+<atom:link rel="http://podlove.org/deep-link" href="https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-2.html/#" />
 
 <enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/22/s/feed/c/mp3/wissenswelle-2.mp3" length="45977155" type="audio/mpeg" />
 
@@ -101,6 +149,7 @@
 		<guid isPermaLink="false">podlove-2020-02-25t07:54:39+00:00-2ea8a73db7c3336</guid>
 		<description><![CDATA[Prof. Dr. Judith Simon forscht zu Chancen und Risiken von Big Data. Sie ist Professorin für Ethik in der Informationstechnologie und analysiert mit einem interdisziplinären Team zeitgenössische Datenpraktiken in Wirtschaft, Wissenschaft und Politik. Im Gespräch erzählt sie, wie sie als Philosophin zur Informatik gekommen ist, über ihren eigenen Umgang mit Daten und Verschlüsselung und über selbstfahrende Autos.]]></description>
 
+<atom:link rel="http://podlove.org/deep-link" href="https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-1.html/#" />
 
 <enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/1/s/feed/c/mp3/wissenswelle-1.mp3" length="36733228" type="audio/mpeg" />
 
@@ -124,5 +173,6 @@
   <psc:chapter start="00:36:37.283" title="Verabschiedung"/>
 </psc:chapters>
 	</item>
+
 	</channel>
 </rss>
