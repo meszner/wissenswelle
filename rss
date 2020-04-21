@@ -9,7 +9,7 @@
 	<title>Wissenswelle</title>
 	<link>https://www.uni-hamburg.de/newsroom/podcast/</link>
 	<description>Podcast der Universität Hamburg</description>
-	<lastBuildDate>Wed, 08 Apr 2020 07:42:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Apr 2020 07:17:05 +0000</lastBuildDate>
 	
 <image><url>https://www.pod.uni-hamburg.de/1/poster/1.png</url><title>Wissenswelle</title><link>https://www.uni-hamburg.de/newsroom/podcast/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="Wissenswelle (MP3)" href="https://www.pod.uni-hamburg.de/1/feed/1.rss" />
@@ -34,6 +34,61 @@
 	<itunes:explicit>no</itunes:explicit>
 
 	<item>
+		<title>„Fossilien sind Schaufenster in die Vergangenheit“</title>
+		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-5.html</link>
+		<pubDate>Tue, 21 Apr 2020 07:17:05 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-04-20t09:23:52+00:00-378d301fa2b476c</guid>
+		<description><![CDATA[Fossilien geben Einblick in die Geschichte der Entwicklung des Lebens. Im Podcast-Gespräch werfen wir mit dem Paläontologen Dr. Ulrich Kotthoff einen Blick hinter die Kulissen seiner Forschung und klären, warum in Hamburg keine Dinosaurier zu finden sind. 
+
+Dr. Ulrich Kotthoff erforscht Mikrofossilien, dazu zählen etwa Pollenkörner oder Einzeller, die vor mehreren Zehntausend Jahren gelebt haben. Auf Forschungsreisen sammelt er Bohrkerne und kommt zu neuen Erkenntnissen im Bereich in der Klimageschichte des Ostseeraums. Im Gespräch erklärt der Paläontologe, wie sich anhand von Fossilien Klimaveränderungen, die Evolution und die Entwicklung der Artenvielfalt nachvollziehen lassen.
+
+Zudem leitet Dr. Ulrich Kotthoff das Geologisch-Paläontologische Museum am Centrum für Naturkunde (CeNak), das in einer Ausstellung bedeutende geologische und paläontologische Funde zeigt. Am Ende des Gesprächs stellt er sein Lieblingsobjekt aus der Forschungssammlung vor.]]></description>
+		
+		
+<enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/34/s/feed/c/mp3/wissenswelle-5.mp3" length="63154021" type="audio/mpeg"/>
+
+		<itunes:duration>01:05:39</itunes:duration>
+		<itunes:author>Universität Hamburg</itunes:author>
+		<itunes:subtitle>Paläontologe Dr. Ulrich Kotthoff im Podcast-Gespräch über Dinosaurier, Bohrkerne und globales Artensterben</itunes:subtitle>
+		<itunes:episode>5</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Fossilien geben Einblick in die Geschichte der Entwicklung des Lebens. Im Podcast-Gespräch werfen wir mit dem Paläontologen Dr. Ulrich Kotthoff einen Blick hinter die Kulissen seiner Forschung und klären, warum in Hamburg keine Dinosaurier zu finden sind. 
+
+Dr. Ulrich Kotthoff erforscht Mikrofossilien, dazu zählen etwa Pollenkörner oder Einzeller, die vor mehreren Zehntausend Jahren gelebt haben. Auf Forschungsreisen sammelt er Bohrkerne und kommt zu neuen Erkenntnissen im Bereich in der Klimageschichte des Ostseeraums. Im Gespräch erklärt der Paläontologe, wie sich anhand von Fossilien Klimaveränderungen, die Evolution und die Entwicklung der Artenvielfalt nachvollziehen lassen.
+
+Zudem leitet Dr. Ulrich Kotthoff das Geologisch-Paläontologische Museum am Centrum für Naturkunde (CeNak), das in einer Ausstellung bedeutende geologische und paläontologische Funde zeigt. Am Ende des Gesprächs stellt er sein Lieblingsobjekt aus der Forschungssammlung vor.</itunes:summary>
+		
+		<content:encoded><![CDATA[<p>Fossilien geben Einblick in die Geschichte der Entwicklung des Lebens. Im Podcast-Gespräch werfen wir mit dem Paläontologen Dr. Ulrich Kotthoff einen Blick hinter die Kulissen seiner Forschung und klären, warum in Hamburg keine Dinosaurier zu finden sind. </p>
+<p>Dr. Ulrich Kotthoff erforscht Mikrofossilien, dazu zählen etwa Pollenkörner oder Einzeller, die vor mehreren Zehntausend Jahren gelebt haben. Auf Forschungsreisen sammelt er Bohrkerne und kommt zu neuen Erkenntnissen im Bereich in der Klimageschichte des Ostseeraums. Im Gespräch erklärt der Paläontologe, wie sich anhand von Fossilien Klimaveränderungen, die Evolution und die Entwicklung der Artenvielfalt nachvollziehen lassen.</p>
+<p>Zudem leitet Dr. Ulrich Kotthoff das Geologisch-Paläontologische Museum am Centrum für Naturkunde (CeNak), das in einer Ausstellung bedeutende geologische und paläontologische Funde zeigt. Am Ende des Gesprächs stellt er sein Lieblingsobjekt aus der Forschungssammlung vor.</p>
+<p>Weitere Infos: <a href="https://www.cenak.uni-hamburg.de/ausstellungen/museum-palaeontologie.html" rel="noopener noreferrer" target="_blank">Geologisch-Paläontologisches Museum</a></p>
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:00.000" title="Einleitung und Begrüßung"/>
+  <psc:chapter start="00:01:03.242" title="Hamburg vor 100 Millionen Jahren"/>
+  <psc:chapter start="00:02:53.340" title="Dinosaurier in Hamburg"/>
+  <psc:chapter start="00:04:00.762" title="Forschungsinteressen"/>
+  <psc:chapter start="00:05:18.975" title="Weg in die Forschung"/>
+  <psc:chapter start="00:09:26.039" title="Methoden der Paläontologie"/>
+  <psc:chapter start="00:09:56.232" title="Datierungsmethoden"/>
+  <psc:chapter start="00:12:26.653" title="Überlieferung: Der Fossilbefund"/>
+  <psc:chapter start="00:14:47.414" title="Offene Forschungsfragen"/>
+  <psc:chapter start="00:18:36.036" title="Was ist Mikro-Paläontologie?"/>
+  <psc:chapter start="00:21:26.730" title="Untersuchung von Bohrkernen"/>
+  <psc:chapter start="00:24:41.344" title="Auf dem Forschungsschiff METEOR"/>
+  <psc:chapter start="00:33:39.517" title="Klimageschichte Ostseeraum"/>
+  <psc:chapter start="00:37:16.480" title="Pollenkörner"/>
+  <psc:chapter start="00:43:17.099" title="Forschungsergebnisse"/>
+  <psc:chapter start="00:46:39.987" title="Klimamodelle"/>
+  <psc:chapter start="00:51:11.469" title="Eiszeiten"/>
+  <psc:chapter start="00:55:28.923" title="Globales Artensterben"/>
+  <psc:chapter start="00:59:49.367" title="Im Geologisch-Paläontologische Museum"/>
+  <psc:chapter start="01:01:28.573" title="Lieblingsobjekt"/>
+  <psc:chapter start="01:04:21.009" title="Verabschiedung"/>
+</psc:chapters>	
+	</item>
+	
+	
+	<item>
 		<title>„Wir werden die Pandemie überstehen und unsere Lehren daraus ziehen“</title>
 		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-4.html</link>
 		<pubDate>Wed, 08 Apr 2020 11:13:46 +0000</pubDate>
@@ -42,7 +97,7 @@
 		
 <atom:link rel="http://podlove.org/deep-link" href="https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-4.html/#" />
 		
-<enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/32/s/feed/c/mp3/wissenswelle-4.mp3" length="34464909" type="audio/mpeg" slug="wissenswelle-4"/>
+<enclosure url="https://www.pod.uni-hamburg.de/1/blog/1|/file/32/s/feed/c/mp3/wissenswelle-4.mp3" length="34464909" type="audio/mpeg"/>
 
 		<itunes:duration>00:35:46</itunes:duration>
 		<itunes:author>Universität Hamburg</itunes:author>
