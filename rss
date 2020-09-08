@@ -9,7 +9,7 @@
 	<title>Wissenswelle</title>
 	<link>https://www.uni-hamburg.de/newsroom/podcast/</link>
 	<description>Podcast der Universität Hamburg</description>
-	<lastBuildDate>Wed, 15 Jul 2020 07:44:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Sep 2020 08:42:22 +0000</lastBuildDate>
 	
 <image><url>https://www.pod.uni-hamburg.de/1/poster/1.png</url><title>Wissenswelle</title><link>https://www.uni-hamburg.de/newsroom/podcast/</link></image>
 <atom:link rel="self" type="application/rss+xml" title="Wissenswelle (MP3)" href="https://www.pod.uni-hamburg.de/1/feed/1.rss" />
@@ -33,6 +33,47 @@
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>no</itunes:explicit>
 
+	<item>
+		<title>„Fake News sind Teil der Corona-Erfahrung“</title>
+		<link>https://www.uni-hamburg.de/newsroom/podcast/wissenswelle-coronarchiv.html</link>
+		<pubDate>Tue, 08 Sep 2020 08:42:22 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2020-09-07t07:38:05+00:00-93bb20b4500a6d6</guid>
+		<description><![CDATA[Das Coronavirus bestimmt im Verlauf des Jahres 2020 unseren Alltag. Aber wie werden wir uns einigen Jahren an die Pandemie erinnern? Prof. Dr. Thorsten Logge und Nils Steffen vom Arbeitsbereich Public History der Universität Hamburg erzählen im Podcast, wie beim „coronarchiv“ Erinnerungen, Alltagserfahrungen und Stimmen zur Corona-Krise gesammelt und dokumentiert werden.
+
+Im März 2020, kurz nachdem in Deutschland die ersten Corona-Maßnahmen beschlossen wurden, startete das „coronarchiv“, eine digitale Sammlung für Erinnerungen zur Corona-Pandemie. Unter dem Motto „Sharing is Caring“ sind Menschen dazu aufgerufen, Texte, Bilder oder Videos hochzuladen, um die eigene Alltagserfahrung mit der Pandemie zu teilen und für spätere historische Forschungen zur Verfügung zu stellen.
+
+„Das Projekt war nicht von langer Hand geplant“, erzählen Prof. Logge und Nils Steffen im Gespräch, die vom Erfolg des digitalen Archivs überrascht wurden: Inzwischen sind etwa 4.000 Objekte eingereicht worden und täglich werden es mehr. Gemeinsam mit Kolleginnen und Kollegen von den Universitäten in Bochum und Gießen wollen sie dokumentieren, was Menschen in dieser Zeit erleben. „Noch wissen wir nicht, wie wir uns später einmal an die Pandemie erinnern werden“, meint Prof. Logge, daher soll das gesammelte Material dauerhaft archiviert werden.]]></description>
+		
+		
+<enclosure url="https://www.pod.uni-hamburg.de/1/blog/1__/file/46/s/feed/c/mp3/wissenswelle-coronarchiv.mp3" length="42181700" type="audio/mpeg"/>
+
+		<itunes:duration>00:43:48</itunes:duration>
+		<itunes:author>Universität Hamburg</itunes:author>
+		<itunes:subtitle>Historiker Prof. Dr. Thorsten Logge und Nils Steffen im Gespräch</itunes:subtitle>
+		<itunes:episode>9</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Das Coronavirus bestimmt im Verlauf des Jahres 2020 unseren Alltag. Aber wie werden wir uns einigen Jahren an die Pandemie erinnern? Prof. Dr. Thorsten Logge und Nils Steffen vom Arbeitsbereich Public History der Universität Hamburg erzählen im Podcast, wie beim „coronarchiv“ Erinnerungen, Alltagserfahrungen und Stimmen zur Corona-Krise gesammelt und dokumentiert werden.
+
+Im März 2020, kurz nachdem in Deutschland die ersten Corona-Maßnahmen beschlossen wurden, startete das „coronarchiv“, eine digitale Sammlung für Erinnerungen zur Corona-Pandemie. Unter dem Motto „Sharing is Caring“ sind Menschen dazu aufgerufen, Texte, Bilder oder Videos hochzuladen, um die eigene Alltagserfahrung mit der Pandemie zu teilen und für spätere historische Forschungen zur Verfügung zu stellen.
+
+„Das Projekt war nicht von langer Hand geplant“, erzählen Prof. Logge und Nils Steffen im Gespräch, die vom Erfolg des digitalen Archivs überrascht wurden: Inzwischen sind etwa 4.000 Objekte eingereicht worden und täglich werden es mehr. Gemeinsam mit Kolleginnen und Kollegen von den Universitäten in Bochum und Gießen wollen sie dokumentieren, was Menschen in dieser Zeit erleben. „Noch wissen wir nicht, wie wir uns später einmal an die Pandemie erinnern werden“, meint Prof. Logge, daher soll das gesammelte Material dauerhaft archiviert werden.</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><strong>Das Coronavirus bestimmt im Verlauf des Jahres 2020 unseren Alltag. Aber wie werden wir uns einigen Jahren an die Pandemie erinnern? Prof. Dr. Thorsten Logge und Nils Steffen vom Arbeitsbereich Public History der Universität Hamburg erzählen im Podcast, wie beim „coronarchiv“ Erinnerungen, Alltagserfahrungen und Stimmen zur Corona-Krise gesammelt und dokumentiert werden.</strong> </p>
+<p>Im März 2020, kurz nachdem in Deutschland die ersten Corona-Maßnahmen beschlossen wurden, startete das „coronarchiv“, eine digitale Sammlung für Erinnerungen zur Corona-Pandemie. Unter dem Motto „Sharing is Caring“ sind Menschen dazu aufgerufen, Texte, Bilder oder Videos hochzuladen, um die eigene Alltagserfahrung mit der Pandemie zu teilen und für spätere historische Forschungen zur Verfügung zu stellen.</p>
+<p>„Das Projekt war nicht von langer Hand geplant“, erzählen Prof. Logge und Nils Steffen im Gespräch, die vom Erfolg des digitalen Archivs überrascht wurden: Inzwischen sind etwa 4.000 Objekte eingereicht worden und täglich werden es mehr. Gemeinsam mit Kolleginnen und Kollegen von den Universitäten in Bochum und Gießen wollen sie dokumentieren, was Menschen in dieser Zeit erleben. „Noch wissen wir nicht, wie wir uns später einmal an die Pandemie erinnern werden“, meint Prof. Logge, daher soll das gesammelte Material dauerhaft archiviert werden.</p>
+]]></content:encoded><psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
+  <psc:chapter start="00:00:00.000" title="Begrüßung und Einleitung"/>
+  <psc:chapter start="00:01:04.064" title="Was ist das Coronarchiv?"/>
+  <psc:chapter start="00:02:22.670" title="Wie kam es zum Projekt?"/>
+  <psc:chapter start="00:03:41.263" title="Warum ist das Coronarchiv notwendig?"/>
+  <psc:chapter start="00:08:02.253" title="Objekte einreichen und hochladen"/>
+  <psc:chapter start="00:13:10.987" title="Lieblingsobjekte"/>
+  <psc:chapter start="00:18:32.650" title="Wie wird das Coronarchiv technisch umgesetzt?"/>
+  <psc:chapter start="00:26:41.859" title="Kritik am Projekt"/>
+  <psc:chapter start="00:35:26.402" title="Public History und Citizen Science"/>
+  <psc:chapter start="00:42:54.225" title="Verabschiedung"/>
+</psc:chapters>	
+	</item>
 	
 	<item>
 		<title>„Die Unsicherheit durch die Krise wird gezielt genutzt, um Falschinformationen zu verbreiten“</title>
